@@ -38,9 +38,9 @@ Aula 16 ☑
 
 Aula 17 ☑
 
-Aula 18
+Aula 18 ☑
 
-Aula 19
+Aula 19 ☑
 
 Aula 20
 
