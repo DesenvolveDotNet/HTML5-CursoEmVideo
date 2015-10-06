@@ -1,0 +1,102 @@
+@charset "UFT-8";
+
+body{
+  background-color: #dddddd;
+  color: rgba(0,0,0,1)
+
+}
+
+div#interface { /* Formatando a interface */
+    width: 900px;
+    background-color: #ffffff;
+    margin: -20px auto 0px auto; /* margens externas em ordem (Cima,Direita,Baixo,Esquerda) */
+    box-shadow: 0px 0px 10px rgba (0,0,0,.5); /* Adcionando sombra */
+    padding: 10px; /* margens internas da interface */
+}
+
+p {
+  text-align: justify;
+  text-indent: 50px;
+}
+
+header#cabecalho img#icone {
+  position: absolute;
+  left: 780px;
+  top: 40px;
+}
+
+header#cabecalho{
+  
+}
+
+figure.foto-legenda{ /* Formatação do bloco da imagem e legenda */
+
+    position: relative;
+    border: 8px solid white; /* Borda do bloco */
+    box-shadow: 1px 1px 4px black; /* Sombra do bloco */
+}
+
+figure.foto-legenda img { /*Formatação da imagem */
+    width: 100%; /* Tamanho da imagem */
+    height: 100%;
+}
+
+figure.foto-legenda figcaption{ /* Formatação da legenda da imagem */
+    opacity: 0;
+    position: absolute;
+    top: 0px;
+    background-color: rgba(0,0,0,0.4);
+    color: white;
+    width: 100%;
+    height: 100%; /*Tamanho da legenda em relação ao bloco */
+    padding: 10px;
+    box-sizing: border-box;
+    transition: opacity 1s; /* Tempo do efeito de transição */
+}
+
+figure.foto-legenda:hover figcaption{
+    opacity: 1; /* Efeito hover da legenda sobre a imagem */
+    position: absolute;
+}
+
+nav#menu{ /* Formata o menu todo */
+  display: block; /* Faz com que ele flutue para posição correta */
+}
+
+nav#menu ul{ /* Formata toda lista não ordenada (UL) */
+  list-style: none; /* Tira as bolinhas da lista */
+  text-transform: uppercase; /*Coloca textos em letras maiusculas */
+  position: absolute; /* Permite passar por cima dos documentos */
+  top: -20px; /* Distancia do menu com o topo do navegador */
+  left: 300px; /* Posição do menu na tela para direita */
+}
+
+nav#menu li{ /* Formata tudo que esta em (LI) */
+  display: inline-block; /* Faz com que os itens fiquem ordenados horizontalmente */
+  background-color: #dddddd;
+  padding: 10px; /* Cria espaços entre os items */
+  margin: 2px; /*Cria uma margem por fora do background dos botões */
+  -webkit-transition: background-color 1s;
+  -moz-transition: background-color 1s;
+  -ms-transition: background-color 1s;
+  -o-transition: background-color 1s;
+  transition: background-color 1s; /* Transição de tempo para efeito hover */
+}
+
+nav#menu li:hover{ /* Adcionando efeito hover no background do menu */
+  background-color: #606060;
+}
+
+nav#menu h1{
+  display: none; /* Esconde o escrito "Menu Principal" */
+}
+
+nav#menu a{ /* Formata todos href's */
+  color: #000000; /* Cor das fontes */
+  text-decoration: none; /* Tira o sublinhado de link */
+}
+
+nav#menu a:hover{ /* Adcionando efeito hover nas fontes do menu */
+  color: #ffffff;
+  text-decoration: underline; /* Adciona sublinhado no efeito hover */
+}
