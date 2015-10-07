@@ -48,11 +48,11 @@ Aula 21 ☑
 
 Aula 22 ☑
 
-Aula 23
+Aula 23 ☑
 
-Aula 24
+Aula 24 ☑
 
-Aula 25
+Aula 25 ☑
 
 Aula 26
 
