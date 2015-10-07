@@ -42,11 +42,11 @@ Aula 18 ☑
 
 Aula 19 ☑
 
-Aula 20
+Aula 20 ☑
 
-Aula 21
+Aula 21 ☑
 
-Aula 22
+Aula 22 ☑
 
 Aula 23
 
