@@ -36,7 +36,7 @@ a:hover{
 
 header#cabecalho img#icone {
   position: absolute;
-  left: 780px;
+  left: 68%;
   top: 70px;
 }
 
@@ -103,7 +103,7 @@ nav#menu ul{ /* Formata toda lista não ordenada (UL) */
   text-transform: uppercase; /*Coloca textos em letras maiusculas */
   position: absolute; /* Permite passar por cima dos documentos */
   top: -20px; /* Distancia do menu com o topo do navegador */
-  left: 300px; /* Posição do menu na tela para direita */
+  left: 38%; /* Posição do menu na tela para direita */
 }
 
 nav#menu li{ /* Formata tudo que esta em (LI) */
