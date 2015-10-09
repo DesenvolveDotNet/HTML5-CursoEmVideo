@@ -54,13 +54,13 @@ Aula 24 ☑
 
 Aula 25 ☑
 
-Aula 26
+Aula 26 ☑
 
-Aula 27
+Aula 27 ☑
 
-Aula 28
+Aula 28 ☑
 
-Aula 29
+Aula 29 ☑
 
 Aula 30
 
