@@ -133,7 +133,7 @@ nav#menu a{ /* Formata todos href's */
 
 nav#menu a:hover{ /* Adcionando efeito hover nas fontes do menu */
   color: #ffffff;
-  text-decoration: underline; /* Adciona sublinhado no efeito hover */
+  text-decoration: none; /* Adciona sublinhado no efeito hover */
 }
 
 section#corpo {
