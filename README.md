@@ -62,11 +62,11 @@ Aula 28 ☑
 
 Aula 29 ☑
 
-Aula 30
+Aula 30 ☑
 
-Aula 31
+Aula 31 ☑ 
 
-Aula 32
+Aula 32 ☑
 
 Aula 33
 
