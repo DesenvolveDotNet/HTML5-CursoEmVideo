@@ -4,9 +4,9 @@ Meus Estudos de HTML 5/ CSS3 / Javascript pelo Curso Em Vídeo
 
 https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o
 
-- [x]Aula 1 
+- [x] Aula 1 
 
-- [ ]Aula 2
+- [x] Aula 2
 
 Aula 3 ☑
 
